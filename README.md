@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2333aa58-466b-4d30-90c9-e056eefaa75f" /> # Trace
+<img width="153" height="102" alt="image" src="https://github.com/user-attachments/assets/2333aa58-466b-4d30-90c9-e056eefaa75f" /> # Trace
 
 Local-first observability and memory for AI-assisted engineering.
 
